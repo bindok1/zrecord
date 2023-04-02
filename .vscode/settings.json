@@ -1,5 +1,4 @@
 {
-    "chatgpt.gpt3.apiKey": "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",
     "chatgpt.response.showNotification": true,
     "chatgpt.response.autoScroll": false,
     "chatgpt.promptPrefix.customPrompt1-enabled": true,
